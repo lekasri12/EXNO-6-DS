@@ -1,5 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
+### NAME : G LEKASRI
+### REGISTER NUMBER : 21223100025
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
